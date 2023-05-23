@@ -19,4 +19,3 @@ camera_rps.py combines RPS-Template.py and manual_rps.py to create a webcam-play
 Things to improve would be:
 - More training images for the keras_model; there seemed to be a struggle with other hand positions that weren't rock, different lighting for the webcam was trailled however it could be overcome by chosing the Pose training model instead of Image from Teachable Machines
 - Options to resize the webcam input window as the window overtook most of Desktop
--
